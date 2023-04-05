@@ -12,9 +12,6 @@ canvas{
    border-color: black; 
 }
 @keyframes example {
-from{box-shadow:3px 3px 40px darkblue ;}
-to{box-shadow:3px 3px 40px lightblue ;}
-}
-body{
-    background-color: red;
+from{box-shadow:3px 3px 40px rgb(252, 2, 2) ;}
+to{box-shadow:3px 3px 40px rgb(246, 85, 85) ;}
 }
